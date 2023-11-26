@@ -2,7 +2,7 @@
 #include <fstream>
 #include <string>
 #include "logic.h"
-
+#include <limits>
 #include <sstream>
 
 using std::cout, std::endl, std::ifstream, std::string;
