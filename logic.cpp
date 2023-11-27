@@ -4,6 +4,7 @@
 #include "logic.h"
 #include <limits>
 #include <sstream>
+#include <cstdint>
 
 using std::cout, std::endl, std::ifstream, std::string;
 using std::istringstream;
